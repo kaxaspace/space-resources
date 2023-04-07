@@ -3,6 +3,7 @@ List of useful space resources maintained by KAXA 🇰🇭
 
 # General
 * [Handbook for Space Capability Development](https://www.cgdev.org/publication/handbook-space-capability-development) - Guide for national space planners to build sustainable space capability protecting dependencies, enhancing capabilities, and attracting collaboration. 
+* [Why Exploring Space And Investing In Research Is Non-Negotiable](https://www.forbes.com/sites/startswithabang/2017/10/26/even-while-the-world-suffers-investing-in-science-is-non-negotiable/?sh=64ddfb7b1647) - This article argues for the importance of investing in space exploration and research, and highlights the benefits it brings to society.
 * [Space: A Market Map](https://a16z.com/2023/03/17/space-market-map/) - a comprehensive list of space companies working in various tasks. 
 
 # Space Competitions
