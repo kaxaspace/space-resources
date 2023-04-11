@@ -8,9 +8,10 @@ List of useful space resources maintained by KAXA 🇰🇭
 
 ## Space Competitions
 * [Kibo Robot Programming Challenges](https://jaxa.krpc.jp/) - Take part in the Kibo Robot Programming Challenge and test your programming skills by designing algorithms for a robot to perform various tasks in space.
+* [Mission Idea Contest](https://www.spacemic.net/faq.html) - Propose mission ideas for the nanosatellite
 
 ## Rocket
 * [The Secrets of Rocket Design Revealed](https://medium.com/@ToryBrunoULA/the-secrets-of-rocket-design-revealed-e2c7fc89694c) - Discover the key insights behind rocket design and why each rocket has its own perfect mission.
 
 ## Spacecraft
-* [A Guide to CubeSat Mission and Bus Design](https://pressbooks-dev.oer.hawaii.edu/epet302/) - A guide through the process of designing a spacecraft. 
+* [A Guide to CubeSat Mission and Bus Design](https://pressbooks-dev.oer.hawaii.edu/epet302/) - A textbook which guide through the process of designing a spacecraft. 
