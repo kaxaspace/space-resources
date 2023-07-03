@@ -10,6 +10,10 @@ List of useful space resources maintained by KAXA 🇰🇭
 * [Kibo Robot Programming Challenges](https://jaxa.krpc.jp/) - Take part in the Kibo Robot Programming Challenge and test your programming skills by designing algorithms for a robot to perform various tasks in space.
 * [Mission Idea Contest](https://www.spacemic.net/faq.html) - Propose mission ideas for the nanosatellite
 
+## Online Courses
+* [Space Medicine](https://www.coursera.org/learn/space-medicine-duke) - Learn about medical challenges facing NASA and others advancing the future of space exploration
+* [Astrobiology: Exploring Other Worlds](https://www.coursera.org/learn/astrobiology-exploring-other-worlds) - Exlore the field of Astrobiology from the science of how exoplanets are detected, to the chemistry that supports the argument that the ingredients for life are common in the Universe
+
 ## Rocket
 * [The Secrets of Rocket Design Revealed](https://medium.com/@ToryBrunoULA/the-secrets-of-rocket-design-revealed-e2c7fc89694c) - Discover the key insights behind rocket design and why each rocket has its own perfect mission.
 
